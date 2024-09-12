@@ -1,7 +1,7 @@
 # Playrix test task; migrate data from google sheets to gridly service
 
 ## Run script
-###Do not forget to put your token.json (google sheets token) file in the root of the project!
+### Do not forget to put your token.json (google sheets token) file in the root of the project!
 
 ### Without Docker
 **Dependencies:**
@@ -38,13 +38,13 @@ docker build --no-cache -t playrix-test-task .
 
 Change in docker-compose.yml env vars and:
 ```
-docker run playrix-test-task --env-file .env 
+docker run --env-file .env playrix-test-task
 ```
 
 
 ## Development
 
-### Guid throw the code
+### Guide through the code
 - [run.py](run.py) - script entry point
 - [repositories](src%2Frepositories) - data access layer
 - [services](src%2Fservices) - business logic layer
