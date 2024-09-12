@@ -1,0 +1,65 @@
+{
+    "id": "n7pj4lm5bny93",
+    "columns":
+    [
+        {
+            "id": "column1",
+            "editable": true,
+            "isSource": false,
+            "isTarget": false,
+            "name": "Character",
+            "type": "multipleLines"
+        },
+        {
+            "id": "column2",
+            "editable": true,
+            "isSource": true,
+            "isTarget": false,
+            "languageCode": "ruRU",
+            "localizationType": "sourceLanguage",
+            "name": "Russian",
+            "type": "language"
+        },
+        {
+            "id": "column3",
+            "dependsOn": "column2",
+            "editable": true,
+            "isSource": false,
+            "isTarget": true,
+            "languageCode": "enUS",
+            "localizationType": "targetLanguage",
+            "name": "English (United States)",
+            "type": "language"
+        },
+        {
+            "id": "column4",
+            "editable": true,
+            "isSource": false,
+            "isTarget": false,
+            "name": "Character limit",
+            "type": "multipleLines"
+        },
+        {
+            "id": "column5",
+            "editable": true,
+            "isSource": false,
+            "isTarget": false,
+            "name": "Version",
+            "type": "multipleLines"
+        },
+        {
+            "id": "column6",
+            "editable": true,
+            "isSource": false,
+            "isTarget": false,
+            "name": "NarrativeComment",
+            "type": "multipleLines"
+        }
+    ],
+    "defaultAccessViewId": "85j3osqiyb2u8",
+    "metadata":
+    {},
+    "name": "Static Texts",
+    "recordIdentifierType": "recordId",
+    "status": "active"
+}

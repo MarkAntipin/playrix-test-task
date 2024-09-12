@@ -1,0 +1,200 @@
+{
+    "Accept_Button":
+    {
+        "id": "Accept_Button",
+        "cells":
+        [
+            {
+                "columnId": "column1",
+                "value": "None"
+            },
+            {
+                "columnId": "column2",
+                "sourceStatus": "readyForTranslation",
+                "value": "Принять"
+            },
+            {
+                "columnId": "column3",
+                "dependencyStatus": "upToDate",
+                "value": "Accept"
+            },
+            {
+                "columnId": "column4",
+                "value": "0"
+            },
+            {
+                "columnId": "column5",
+                "value": "1"
+            },
+            {
+                "columnId": "column6",
+                "value": "None"
+            }
+        ]
+    },
+    "Button_Continue":
+    {
+        "id": "Button_Continue",
+        "cells":
+        [
+            {
+                "columnId": "column1",
+                "value": "None"
+            },
+            {
+                "columnId": "column2",
+                "sourceStatus": "readyForTranslation",
+                "value": "Продолжить"
+            },
+            {
+                "columnId": "column3",
+                "dependencyStatus": "upToDate",
+                "value": "Continue"
+            },
+            {
+                "columnId": "column4",
+                "value": "0"
+            },
+            {
+                "columnId": "column5",
+                "value": "1"
+            },
+            {
+                "columnId": "column6",
+                "value": "None"
+            }
+        ]
+    },
+    "Button_DontShow":
+    {
+        "id": "Button_DontShow",
+        "cells":
+        [
+            {
+                "columnId": "column1",
+                "value": "None"
+            },
+            {
+                "columnId": "column2",
+                "sourceStatus": "readyForTranslation",
+                "value": "Больше не показывать"
+            },
+            {
+                "columnId": "column3",
+                "dependencyStatus": "upToDate",
+                "value": "Don’t Show Again"
+            },
+            {
+                "columnId": "column4",
+                "value": "0"
+            },
+            {
+                "columnId": "column5",
+                "value": "4"
+            },
+            {
+                "columnId": "column6",
+                "value": "None"
+            }
+        ]
+    },
+    "Button_Ok":
+    {
+        "id": "Button_Ok",
+        "cells":
+        [
+            {
+                "columnId": "column1",
+                "value": "None"
+            },
+            {
+                "columnId": "column2",
+                "sourceStatus": "readyForTranslation",
+                "value": "OK"
+            },
+            {
+                "columnId": "column3",
+                "dependencyStatus": "upToDate",
+                "value": "OK"
+            },
+            {
+                "columnId": "column4",
+                "value": "0"
+            },
+            {
+                "columnId": "column5",
+                "value": "1"
+            },
+            {
+                "columnId": "column6",
+                "value": "None"
+            }
+        ]
+    },
+    "Load_Screen_Loading":
+    {
+        "id": "Load_Screen_Loading",
+        "cells":
+        [
+            {
+                "columnId": "column1",
+                "value": "None"
+            },
+            {
+                "columnId": "column2",
+                "sourceStatus": "readyForTranslation",
+                "value": "Загрузка"
+            },
+            {
+                "columnId": "column3",
+                "dependencyStatus": "upToDate",
+                "value": "Loading"
+            },
+            {
+                "columnId": "column4",
+                "value": "0"
+            },
+            {
+                "columnId": "column5",
+                "value": "1"
+            },
+            {
+                "columnId": "column6",
+                "value": "None"
+            }
+        ]
+    },
+    "Movie_Skіp":
+    {
+        "id": "Movie_Skіp",
+        "cells":
+        [
+            {
+                "columnId": "column1",
+                "value": "None"
+            },
+            {
+                "columnId": "column2",
+                "sourceStatus": "readyForTranslation",
+                "value": "Пропустить"
+            },
+            {
+                "columnId": "column3",
+                "dependencyStatus": "upToDate",
+                "value": "Skip"
+            },
+            {
+                "columnId": "column4",
+                "value": "0"
+            },
+            {
+                "columnId": "column5",
+                "value": "1"
+            },
+            {
+                "columnId": "column6",
+                "value": "None"
+            }
+        ]
+    }
+}

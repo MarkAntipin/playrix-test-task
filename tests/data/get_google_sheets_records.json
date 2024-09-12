@@ -1,0 +1,56 @@
+[
+    {
+        "Record ID": "Accept_Button",
+        "Character": "None",
+        "Russian": "Принять",
+        "English (United States)": "Accept",
+        "Character limit": 0,
+        "Version": 1,
+        "NarrativeComment": "None"
+    },
+    {
+        "Record ID": "Button_Continue",
+        "Character": "None",
+        "Russian": "Продолжить",
+        "English (United States)": "Continue",
+        "Character limit": 0,
+        "Version": 1,
+        "NarrativeComment": "None"
+    },
+    {
+        "Record ID": "Button_DontShow",
+        "Character": "None",
+        "Russian": "Больше не показывать",
+        "English (United States)": "Don’t Show Again!",
+        "Character limit": 0,
+        "Version": 4,
+        "NarrativeComment": "None"
+    },
+    {
+        "Record ID": "Button_Ok",
+        "Character": "None",
+        "Russian": "OK",
+        "English (United States)": "OK",
+        "Character limit": 0,
+        "Version": 1,
+        "NarrativeComment": "None"
+    },
+    {
+        "Record ID": "Load_Screen_Loading",
+        "Character": "None",
+        "Russian": "Загрузка",
+        "English (United States)": "Loading",
+        "Character limit": 0,
+        "Version": 1,
+        "NarrativeComment": "None"
+    },
+    {
+        "Record ID": "Movie_Skіp",
+        "Character": "None",
+        "Russian": "Пропустить",
+        "English (United States)": "Skip",
+        "Character limit": 0,
+        "Version": 1,
+        "NarrativeComment": "None"
+    }
+]
